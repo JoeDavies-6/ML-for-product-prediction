@@ -5,5 +5,4 @@ The code is split into a few different sections:
   - Non-neural network methods
   - Neural network methods
 
-  
-Raw/processed data can be found:
+ 
